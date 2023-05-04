@@ -31,9 +31,9 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/LeonardoYz" target="_blank">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz&show_icons=true&theme=react" alt="LeonardoYz's Stats" />
-    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoYz&layout=compact&theme=react" alt="Most Used Languages" />
+  <a href="https://github.com/NZNBS" target="_blank">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=NZNBS&show_icons=true&theme=react" alt="My Stats" />
+    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZNBS&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
 </details>
@@ -48,10 +48,10 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/leonardo-yzquierdo-97899983/" target="_blank">
+  <a href="https://www.linkedin.com/in/nazabusii/" target="_blank">
     <code><img width="51" src="https://github.com/NZNBS/NZNBS/blob/main/assets/linkedIn.png"/></code>
   </a>
-  <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
+  <a href="mailto: nazaabusi@gmail.com" target="_blank">
     <code><img width="55" src="https://github.com/NZNBS/NZNBS/blob/main/assets/gmail.png"/></code>
   </a>
 </p>
