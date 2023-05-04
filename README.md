@@ -40,7 +40,7 @@
 <br>
 
 <h2>
-  𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
+  My Social Links
   <a target="_blank">
     <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" height="25px" style="max-width:100%;">
   </a>
@@ -56,10 +56,3 @@
   </a>
 </p>
 <br/>
-
-
-  ![Snake animation](https://github.com/NZNBS/NZNBS/blob/output/github-contribution-grid-snake.svg)
-
-#
-
-<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
