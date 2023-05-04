@@ -1,22 +1,21 @@
-<h1> 𝗛𝗶! 𝗜'𝗺 𝗟𝗲𝗼𝗻𝗮𝗿𝗱𝗼.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
-<img align="right" width="50%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
+<h1> Welcome!.<img src="https://github.com/NZNBS/NZNBS/blob/main/assets/Hi.gif" width="25"></h1>
+<img align="right" width="50%" src="https://github.com/NZNBS/NZNBS/blob/main/assets/responsive-design-image.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
-<li> 💻 𝖨'𝗆 𝖥𝗋𝗈𝗇𝗍 𝖤𝗇𝖽 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
-<li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖱𝖾𝖺𝖼𝗍𝖩𝖲 | 𝖭𝖾𝗑𝗍𝖩𝖲</li>
-<li> 😍 𝖫𝗈𝖿𝗂 𝖡𝖾𝖺𝗍𝗌 + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
-<li> 😆 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
+<li> 💻 𝖨'𝗆 Mobile Developer </li>
+<li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 React Native and Ionic Framework <li>
+<li> 😍 I love music and I dedicate myself to being a DJ in my free time </li>
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/React.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Typescript.svg"></code>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/nextjs-logo.svg"></code>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/redux-logo.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/figma-logo.png"></code>
+<code><img width="43" src="https://github.com/NZNBS/NZNBS/blob/main/assets/React.svg"></code>
+<code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/Typescript.svg"></code>
+<code><img width="43" src="https://github.com/NZNBS/NZNBS/blob/main/assets/nextjs-logo.svg"></code>
+<code><img width="43" src="https://github.com/NZNBS/NZNBS/blob/main/assets/redux-logo.svg"></code>
+<code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/JS.svg"></code>
+<code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/git.svg"></code>
+<code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/figma-logo.png"></code>
 
 <br/>
 <br/>
@@ -49,22 +48,17 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/leonardo-yzquierdo-97899983/" target="_blank">
-    <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
+    <code><img width="51" src="https://github.com/NZNBS/NZNBS/blob/main/assets/linkedIn.png"/></code>
   </a>
   <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
-    <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
+    <code><img width="55" src="https://github.com/NZNBS/NZNBS/blob/main/assets/gmail.png"/></code>
   </a>
 </p>
 <br/>
 
 
-  ![Snake animation](https://github.com/LeonardoYz/LeonardoYz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/NZNBS/NZNBS/blob/output/github-contribution-grid-snake.svg)
 
 #
 
 <h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
-
-#
-
-<h4>𝗖𝗿𝗲𝗱𝗶𝘁: <a href="https://github.com/LeonardoYz">LeonardoYz</a></h4>
-<p>𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗢𝗻: 04/08/2022</p>
