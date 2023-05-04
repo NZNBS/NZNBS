@@ -56,3 +56,5 @@
   </a>
 </p>
 <br/>
+
+![Snake animation](https://github.com/NZNBS/NZNBS/blob/output/github-contribution-grid-snake.svg)
