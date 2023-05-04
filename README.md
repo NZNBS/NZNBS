@@ -14,6 +14,8 @@
 <code><img width="43" src="https://github.com/NZNBS/NZNBS/blob/main/assets/php-svgrepo-com.svg"></code>
 <code><img width="43" src="https://github.com/NZNBS/NZNBS/blob/main/assets/c.svg"></code>
 <code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/android-studio.svg"></code>
+<code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/visual-studio-svgrepo-com.svg"></code>
+<code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/visual-studio-code-svgrepo-com.svg"></code>
 <code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/git.svg"></code>
 
 <br/>
