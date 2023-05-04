@@ -57,4 +57,4 @@
 </p>
 <br/>
 
-![Snake animation](https://github.com/NZNBS/NZNBS/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GiovanniBraga/GiovanniBraga/blob/output/github-contribution-grid-snake.svg)
