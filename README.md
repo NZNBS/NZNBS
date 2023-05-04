@@ -4,7 +4,7 @@
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 <li> 💻 𝖨'𝗆 Mobile Developer </li>
-<li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 React Native and Ionic Framework <li>
+<li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 React Native and Ionic Framework </li>
 <li> 😍 I love music and I dedicate myself to being a DJ in my free time </li>
 
 <br/>
@@ -13,9 +13,8 @@
 <code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/java-svgrepo-com.svg"></code>
 <code><img width="43" src="https://github.com/NZNBS/NZNBS/blob/main/assets/php-svgrepo-com.svg"></code>
 <code><img width="43" src="https://github.com/NZNBS/NZNBS/blob/main/assets/c.svg"></code>
-<code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/JS.svg"></code>
+<code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/android-studio.svg"></code>
 <code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/git.svg"></code>
-<code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/figma-logo.png"></code>
 
 <br/>
 <br/>
