@@ -10,7 +10,7 @@
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
 <code><img width="43" src="https://github.com/NZNBS/NZNBS/blob/main/assets/React.svg"></code>
-<code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/Typescript.svg"></code>
+<code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/java-svgrepo-com.svg"></code>
 <code><img width="43" src="https://github.com/NZNBS/NZNBS/blob/main/assets/nextjs-logo.svg"></code>
 <code><img width="43" src="https://github.com/NZNBS/NZNBS/blob/main/assets/redux-logo.svg"></code>
 <code><img width="40" src="https://github.com/NZNBS/NZNBS/blob/main/assets/JS.svg"></code>
