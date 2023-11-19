@@ -1,5 +1,4 @@
 <h1> Welcome!.<img src="https://github.com/NZNBS/NZNBS/blob/main/assets/Hi.gif" width="25"></h1>
-<img align="right" width="50%" src="https://github.com/NZNBS/NZNBS/blob/main/assets/responsive-design-image.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
