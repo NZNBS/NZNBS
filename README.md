@@ -37,12 +37,5 @@
 </p>
 </details>
 <br>
-
-<h2>
-  My Social Links
-  <a target="_blank">
-    <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" height="25px" style="max-width:100%;">
-  </a>
-</h2>
 <br/>
 
