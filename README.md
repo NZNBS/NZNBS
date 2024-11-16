@@ -44,15 +44,5 @@
     <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" height="25px" style="max-width:100%;">
   </a>
 </h2>
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/nazabusii/" target="_blank">
-    <code><img width="51" src="https://github.com/NZNBS/NZNBS/blob/main/assets/linkedIn.png"/></code>
-  </a>
-  <a href="mailto: nazaabusi@gmail.com" target="_blank">
-    <code><img width="55" src="https://github.com/NZNBS/NZNBS/blob/main/assets/gmail.png"/></code>
-  </a>
-</p>
 <br/>
 
